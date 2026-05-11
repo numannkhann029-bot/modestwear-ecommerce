@@ -1,0 +1,13 @@
+a:hover {
+  transform: scale(1.05);
+  background: #ff8a65 !important;
+  color: #fff !important;
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}

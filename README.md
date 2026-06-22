@@ -59,7 +59,6 @@ bash
 cd backend
 NODE_ENV=production npm start
 📁 Project Structure
-Code
 modestwear-ecommerce/
 ├── backend/
 │   ├── models/
